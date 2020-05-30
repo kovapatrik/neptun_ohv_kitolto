@@ -2,8 +2,8 @@
 // @name         Neptun kérdőív script
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @downloadURL  https://github.com/kovapatrik/neptun_ohv_kitolto/raw/master/neptun_ohv_script.user.js
+// @description  Kérdőív kitöltő
 // @include      https://unipoll.neptun.elte.hu/Survey.aspx?FillOutId*
 // @grant GM_setValue
 // @grant GM_getValue
