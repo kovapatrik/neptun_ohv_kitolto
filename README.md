@@ -1,4 +1,4 @@
-# neptun_ohv_kitolto
+# Neptun OHV kitöltő
 Automatikusan kitölti a félév végén lévő értékelő kérdőíveket
 
 ### Tampermonkey vagy Greasemonkey szükséges hozzá
