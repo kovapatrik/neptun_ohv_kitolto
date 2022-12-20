@@ -81,9 +81,9 @@
                     new_tables[0].childNodes[6].childNodes[0].checked = true; // Canvas
                     new_tables[0].childNodes[15].childNodes[0].checked = true; // MS Teams
 
-                    new_tables[1].childNodes[type-1].childNodes[0].click();
+                    // new_tables[1].childNodes[type-1].childNodes[0].click();
 
-                    new_tables[2].childNodes[1].childNodes[0].click();
+                    // new_tables[2].childNodes[1].childNodes[0].click();
                 }
             }
 
